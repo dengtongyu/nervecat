@@ -1,0 +1,90 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,description_json,more_png,btn_start_png,failed_png,pot1_png,replay_png,stay_json,stay_png,pot2_png,txt_png,shareBTN_png,victory_png,weizhu_json,arron_png,weizhu_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/btn_start.png",
+			"type": "image",
+			"name": "btn_start_png"
+		},
+		{
+			"url": "assets/arron.png",
+			"type": "image",
+			"name": "arron_png"
+		},
+		{
+			"url": "assets/failed.png",
+			"type": "image",
+			"name": "failed_png"
+		},
+		{
+			"url": "assets/more.png",
+			"type": "image",
+			"name": "more_png"
+		},
+		{
+			"url": "assets/pot1.png",
+			"type": "image",
+			"name": "pot1_png"
+		},
+		{
+			"url": "assets/pot2.png",
+			"type": "image",
+			"name": "pot2_png"
+		},
+		{
+			"url": "assets/shareBTN.png",
+			"type": "image",
+			"name": "shareBTN_png"
+		},
+		{
+			"url": "assets/replay.png",
+			"type": "image",
+			"name": "replay_png"
+		},
+		{
+			"url": "assets/txt.png",
+			"type": "image",
+			"name": "txt_png"
+		},
+		{
+			"url": "assets/weizhu.png",
+			"type": "image",
+			"name": "weizhu_png"
+		},
+		{
+			"url": "assets/stay.png",
+			"type": "image",
+			"name": "stay_png"
+		},
+		{
+			"url": "assets/victory.png",
+			"type": "image",
+			"name": "victory_png"
+		},
+		{
+			"url": "assets/stay.json",
+			"type": "json",
+			"name": "stay_json"
+		},
+		{
+			"url": "assets/weizhu.json",
+			"type": "json",
+			"name": "weizhu_json"
+		}
+	]
+}
